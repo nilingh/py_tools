@@ -1,5 +1,8 @@
 # py_tools
-一些用Python写的小工具
-* 下载Bing必应主页的图片: get_bing_img.py
-* 删除文件名中的空格: del_filename_space.py
-* 倒计时天数: count_days.py
+Some scripts wrote in Python
+* get_bing_img.py
+  * Loving highlight photos from bing.com, saving daily to be the desktop of laptop.
+* del_filename_space.py
+  * batch removing spaces from files names.
+* count_days.py
+  * summer time counts down.
